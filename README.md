@@ -8,7 +8,7 @@ A small game that I created in Unity. It's my first Unity project so please don'
 
 These is a feature what Unity automatically adds to every game.
 
----
+
 
 ## Homescreen
 
@@ -16,7 +16,7 @@ These is a feature what Unity automatically adds to every game.
 
 The Homescren for the game. MAybe you can find the secrete ;)
 
----
+
 
 ## Gameplaystarts
 
@@ -25,11 +25,11 @@ The Homescren for the game. MAybe you can find the secrete ;)
 Here starts the gameplay with a little story that explains what you have to do. Be aware of the sound the magical sign makes.
 You can also scipe the tutorial with E when the timer is decrease. Here you also get one of the three weapons with different sound damage and animations.
 
----
+
 ## Weapons
 
 
----
+
 ## Main-Gameplay
 
 <img src="https://raw.githubusercontent.com/18Markus1984/FindeTheBread/master/image/sreen4.PNG" width="800">
@@ -37,11 +37,11 @@ You can also scipe the tutorial with E when the timer is decrease. Here you also
 You have to run through 8-9 levels with 3 diffferent enemys. The difficulty inceases with every level 
 and the enemy can drop items that help you.
 
----
+
 ## Enemys
 
 
----
+
 ## Goal
 
 <img src="https://raw.githubusercontent.com/18Markus1984/FindeTheBread/master/image/screen5.PNG" width="800">
