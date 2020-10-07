@@ -14,7 +14,7 @@ These is a feature what Unity automatically adds to every game.
 
 <img src="https://raw.githubusercontent.com/18Markus1984/FindeTheBread/master/image/screen2.PNG" width="800">
 
-The Homescren for the game. MAybe you can find the secrete ;)
+The Homescren for the game. Maybe you can find the secrete ;)
 
 
 
