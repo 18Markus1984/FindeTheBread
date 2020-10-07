@@ -35,7 +35,7 @@ You can also scipe the tutorial with E when the timer is decrease. Here you also
 <img src="https://raw.githubusercontent.com/18Markus1984/FindeTheBread/master/image/sreen4.PNG" width="800">
 
 You have to run through 8-9 levels with 3 diffferent enemys. The difficulty inceases with every level 
-and the enemy can drop items that help you.
+and the enemy can drop items that help you. You also can see I created a speedrun option for my friends who wanted to challange each other.
 
 
 ## Enemys
