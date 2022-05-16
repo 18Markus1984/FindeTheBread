@@ -28,7 +28,7 @@ You can also scipe the tutorial with E when the timer is decrease. Here you also
 
 ## Weapons
 
-
+<img src="https://github.com/18Markus1984/FindeTheBread/blob/master/blazing%20beaks/Guns/spark.gif?raw=true" width="100">
 
 ## Main-Gameplay
 
